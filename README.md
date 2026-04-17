@@ -12,4 +12,4 @@ Ejercicios y entregas para curso pensamiento computacional
 [p5js](https://p5js.org)
 
 ![Gallina con sus pollitos](https://www.fincacasarejo.com/cria/como-cuida-la-gallina-de-los-pollitos)
-![texto alternativo imagen](ruta a imagen local)
+![texto alternativo imagen](Imágenes/Pollito.png)
